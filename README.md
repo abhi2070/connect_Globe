@@ -1,7 +1,6 @@
 # connect_globe
 **Objective**
-    It provides a common platform to share the common people experiences, informations and harrashments all over the world and people can discuss on any topic
-    created by only registered user. Moreover, he/she can give the advice on any topic or report.
+    It provides a common platform to share common people's experiences, pieces of information, and harassment all over the world and people can discuss any topic created by       only registered users. Moreover, he/she can give advice on any topic or report.
   
 **Admin**
     Can create and post the topic to be discussed and report respectively after getting logged in!
